@@ -1,6 +1,6 @@
 # KillAura
 
-#### Tên thường gọi: -
+#### Tên thường gọi: Aura, Ka (killaura),...
 
 #### Danh mục: Combat
 #### Chức năng: Tự động tấn công tất cả thực thể đang ở xung quanh người chơi trong một phạm vi xác định.
