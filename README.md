@@ -1,16 +1,15 @@
 <div align="center">
   <h1>Cheating Documentation</h1>
-  <h3>A repository for documentation how to set up and configure config for cheating</h3>
+  <h3>A plug-and-play tutorial that aims to help beginners start cheating</h3>
   Website: https://minusbounce.lol</br>
   Discord: https://discord.minusbounce.lol
 </div>
 
 ## Contributing
-To contribute docs, you can fork and edit this repository. After that, create a pull request.
+To contribute to this repository, you can fork and edit this then create a pull request.
 
 ## Issues
-If you found some issue, or adding features, or contribute example videos for settings, create an issue.
-
+If you found any issue, let us know by creating an issue.
 
 ## License
 This project is subject to the GNU General Public License v3.0.
