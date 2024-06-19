@@ -9,7 +9,7 @@
 To contribute to this repository, you can fork and edit this then create a pull request.
 
 ## Issues
-If you found any issue, let us know by creating an issue.
+If you found any issue in this repository, let us know by creating an issue and we will look into that as soon as possible.
 
 ## License
 This project is subject to the GNU General Public License v3.0.
